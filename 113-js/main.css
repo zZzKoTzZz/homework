@@ -43,7 +43,7 @@
 
 .modal__window {
     position: relative;
-    width: 30vw;
+    width: 25vw;
     min-height: 30vh;
     padding: 50px 20px 20px 20px;
     background-image: url(bg.jpg);
